@@ -9,7 +9,7 @@ Project has 2 parts:
 
 `cd server`
 `npm i`
-`npm run start`
+`npm run dev`
 
 This will start the server in PORT 4000 by default.
 
