@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node dist/index.js",
     "dev": "nodemon --exec ts-node src/index.ts --watch",
     "build": "tsc",
+    "start": "node dist/index.js",
     "generate-gql-types": "graphql-codegen"
   },
   "keywords": [],
